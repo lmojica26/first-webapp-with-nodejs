@@ -1,0 +1,25 @@
+{
+  "name": "first-webapp-with-nodejs",
+  "version": "1.0.0",
+  "description": "My First Webapp",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "2.4.1",
+    "express": "4.15.2",
+    "nvm": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmojica26/first-webapp-with-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmojica26/first-webapp-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/lmojica26/first-webapp-with-nodejs#readme"
+}
